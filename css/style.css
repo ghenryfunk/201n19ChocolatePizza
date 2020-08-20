@@ -1,0 +1,47 @@
+body {
+  margin-top: 30px;
+  margin-left: 70px;
+  margin-right: 70px;
+  max-width: 960px;
+}
+
+nav {
+display: inline-block;
+}
+
+
+#logo {
+  float: left;
+}
+
+#header {
+  border-bottom: ridge;
+  color: gray;
+  padding: 30px;
+  padding-top: 20px;
+  max-width: 800px;
+  padding-bottom: 35px;
+}  
+
+#delicious {
+  font-family: "Brush Script MT", cursive;
+  font-size: 34px;
+  color: black;
+}
+  
+
+h2 {
+  font-size: 10px;
+  margin-left: 45px;
+  height: auto;
+  margin-top: 0px;
+}
+
+#rightheader {
+  float: right;
+}
+ 
+
+
+
+ 
