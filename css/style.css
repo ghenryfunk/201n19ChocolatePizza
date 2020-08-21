@@ -5,13 +5,15 @@ body {
   max-width: 960px;
 }
 
-nav {
+/* nav {
 display: inline-block;
-}
+} */
 
 
 #logo {
   float: left;
+  height: 50px;
+  padding: 5px, 5px, 5px, 5px;
 }
 
 #header {
@@ -19,27 +21,60 @@ display: inline-block;
   color: gray;
   padding: 30px;
   padding-top: 20px;
-  max-width: 800px;
+  max-width: 960px;
   padding-bottom: 35px;
+  height: 20px;
+  /* width: 960px; */
 }  
 
 #delicious {
   font-family: "Brush Script MT", cursive;
   font-size: 34px;
   color: black;
+  height:25px;
+  padding-left: 20px;
+  padding-block-start:  10px;
 }
   
 
 h2 {
   font-size: 10px;
-  margin-left: 45px;
+  margin-left: 20px;
   height: auto;
   margin-top: 0px;
 }
 
 #rightheader {
   float: right;
+  padding-top: 1px;
 }
+
+#mainh1 {
+  padding-bottom: 12px;
+  float: inline-end;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 35px;
+  padding-bottom: 5px;
+  padding-top: 10px; 
+
+}
+
+#printer {
+  Float: right;
+}
+
+
+#mainh2 {
+  font-size: 5px;
+  margin-left: 20px;
+  height: auto;
+  /* margin-top: 0px; */
+  color: gray;
+  padding-top: 5px;
+
+}
+
+
  
 
 
